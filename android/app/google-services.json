@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128432159681",
+    "project_id": "auth-8211a",
+    "storage_bucket": "auth-8211a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128432159681:android:11a5ec329a50f4ec1d8d40",
+        "android_client_info": {
+          "package_name": "com.example.dc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZb46J9bB_13vZVJhTqH7ILg_b75iGdh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
